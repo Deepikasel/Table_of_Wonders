@@ -6,8 +6,12 @@ A beautifully designed learning companion for students, researchers, and profess
 ---
 
 ##  Live Demo
+
 You can view the live version here:  
 👉 [Live Website](https://table-of-wonders.netlify.app/)
+
+Checkout the project explanation video here:
+📽️ [Live Video](https://youtu.be/uszQhnnVIkA)
 
 ---
 
