@@ -8,12 +8,10 @@ A beautifully designed learning companion for students, researchers, and profess
 ##  Project Visualizations
 
 ### Website
-You can view the live version here:  
-👉 [Live Website](https://table-of-wonders.netlify.app/)
+You can view the live version here: *👉 [Live Website](https://table-of-wonders.netlify.app/)*
 
 ### Demo
-Checkout the project explanation video here:
-📽️ [Live Video](https://youtu.be/uszQhnnVIkA)
+Checkout the project explanation video here: *📽️ [Live Video](https://youtu.be/uszQhnnVIkA)*
 
 ---
 
