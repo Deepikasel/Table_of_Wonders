@@ -68,12 +68,7 @@ table-of-wonders/
 4. Integrating the Quiz Portal for easy testing of skills learnt 
 
 ---
-## Acknowledgements
 
-- Inspired by the struggles in learning elements of Periodic table
-- Built and maintained by Archana Sengunthar and collaborator Deepika S
-
----
 #  Contact Author
 
  **Archana Sengunthar**
