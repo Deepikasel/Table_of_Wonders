@@ -18,15 +18,15 @@ Checkout the project explanation video here: *📽️ [Live Video](https://youtu
 ##  Project Structure
 ```
 table-of-wonders/
-│── index.html # Main HTML file
-│── welcome.html # Animated welcome page (optional, if separated)
+│── index.html
+│── welcome.html
 │── css/
-│ └── styles.css # Main styles
+│ └── styles.css
 │── js/
-│ └── script.js # Animations & interactivity
+│ └── script.js
 │── assets/
-│ └── images/ # Store images (if any)
-│── README.md # Project documentation
+│ └── images/
+│── README.md
 
 ```
 ---
